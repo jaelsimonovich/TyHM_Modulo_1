@@ -13,3 +13,5 @@
    *Ejercicio 5:* Creación de un CV LATex
 
    *Ejercicio 6:* Creación de un archivo con metadatos en el entorno R
+
+$$e^{i\pi}+1=0$$
