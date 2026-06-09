@@ -4,7 +4,7 @@
 
 ## Archivos incluidos
 
-* `articulo Sistema de Sauld y Emergencias.Rmd` — Artículo completo en RMarkdown
+* `articulo.Rmd` — Artículo completo en RMarkdown
 
 ## Requisitos
 
@@ -22,7 +22,7 @@
 
 * Haz clic en el botón "Knit" o ejecuta:
     ```r
-    rmarkdown::render(`articulo Sistema de Sauld y Emergencias.Rmd`)
+    rmarkdown::render(`articulo.Rmd`)
     ```
 ## Informe publicado
 
