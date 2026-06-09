@@ -11,4 +11,6 @@ Se realiza un informe sobre Simulación de Sistema de Triage en Emergencias.
 
 
 # Referencias
-Se presentan los archivos de simulación del Software SIMUL8, en conjunto con los cálculos de costos, obtenidos a partir de consultar al especialista del Hospital Español de Mendoza Sr. Egea ......
+Se presentan los archivos de simulación del Software SIMUL8, en conjunto con los cálculos de costos, obtenidos a partir de consultar al especialista gerente del Hospital Español de Mendoza, Sr. Egea.
+
+
